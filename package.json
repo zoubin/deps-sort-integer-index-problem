@@ -1,0 +1,26 @@
+{
+  "name": "deps-sort-integer-index-problem",
+  "version": "0.0.1",
+  "description": "a problem with deps-sort integer index",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoubin/deps-sort-integer-index-problem.git"
+  },
+  "keywords": [
+    "deps-sort"
+  ],
+  "author": "zoubin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoubin/deps-sort-integer-index-problem/issues"
+  },
+  "homepage": "https://github.com/zoubin/deps-sort-integer-index-problem#readme",
+  "dependencies": {
+    "browserify": "^10.2.4",
+    "factor-bundle": "^2.4.1",
+    "merge-stream": "^0.1.8",
+    "sink-transform": "^0.1.4",
+    "through2": "^1.1.1"
+  }
+}
