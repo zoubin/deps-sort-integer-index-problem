@@ -31,7 +31,7 @@ b.plugin(factor, {
     entries: file,
     outputs: a,
     threshold: function (row, groups) {
-        return path.basename(row.file) === 'common.js';
+        return path.basename(row.file) === 'base.js';
     }
 });
 
