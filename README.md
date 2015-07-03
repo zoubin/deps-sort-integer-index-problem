@@ -5,6 +5,8 @@ This happens when browserify works together with [factor-bundle](https://www.npm
 
 This repo will give an example.
 
+There is a [plugin](https://www.npmjs.com/package/index-hashify) to fix it, before browserify or deps-sort gives a solution.
+
 ## Example
 
 * `a.js` depends upon `base.js`
